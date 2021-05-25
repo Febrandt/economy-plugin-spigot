@@ -1,9 +1,0 @@
-main: me.ferjao.main.Main
-name: EconomyPlugin
-version: 1.0
-api-version: 1.8.8
-author: Ferjao
-commands:
-  money:
-    description: Veja seu dinheiro
-    usage: /<command>
